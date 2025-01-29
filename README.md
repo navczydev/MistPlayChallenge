@@ -27,6 +27,11 @@ Please put build instructions, assumptions and any other notes that you'd like y
 - Junit4
 - Mockk
 
+## Test Report for Unit Tests
+![Screenshot 2025-01-29 at 3 40 55 PM](https://github.com/user-attachments/assets/6d77b1aa-6516-4ba5-a4a4-282985da3868)
+
+
+
 ## Screenshot 📷
 ![Screenshot 2025-01-29 at 3 38 59 PM](https://github.com/user-attachments/assets/49a3f9bb-1096-4e29-bae3-10f17daf9758)
 
