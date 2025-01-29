@@ -1,8 +1,5 @@
 # Mistplay android-code-challenge
 
-Candidates:
-Please put build instructions, assumptions and any other notes that you'd like your reviewers to know about in this file
-
 ## How to build and run
 - I have used the following Android Studio version
     - Android Studio Ladybug Feature Drop | 2024.2.2
